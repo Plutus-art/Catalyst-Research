@@ -7,10 +7,12 @@
 
 ### List of tested aiken-lang functions and libraries
 
-Aiken-New-Experiment-function
-Aiken-functions
-1. Aiken Steak Protocol.docx
-2.1. Aiken STD Library rational.ak ( Math ).docx
+
+1. Aiken Steak Protocol
+
+2. Aiken STD Library
+
+2.1. Aiken STD Library rational.ak ( Math )
 
 2.2.Transaction Functions.docx
 
