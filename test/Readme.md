@@ -53,3 +53,4 @@
 7. Lenfi smart contract
 8. Aiken-Vim-editor-plugin
 9. Aiken-aicone
+10. encoins-aiken-core
