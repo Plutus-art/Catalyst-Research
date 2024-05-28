@@ -50,3 +50,6 @@
 5. Aiken-Markle-Tree.docx
 
 6. Emacs mode for Aiken.docx
+7. Lenfi smart contract
+8. Aiken-Vim-editor-plugin
+9. Aiken-aicone
